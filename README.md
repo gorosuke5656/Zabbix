@@ -1,4 +1,4 @@
-# zabbix-lab
+# Zabbix-lab
 
 自宅ラボ環境<br>
 Zabbixサーバ（Ver7.0）【VirtualBOX上】
