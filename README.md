@@ -10,4 +10,5 @@ Zabbixエージェントのインストールと確認  ：　　[次のチャ�
 ネットワーク機器監視　　　　　　　　    ：　　[次のチャプターへ進む](./Zabbix-network-monitoring.md) <br>
 Web監視　　　　　　　　　　　　　　　　 ：　　[次のチャプターへ進む](./Zabbix-Web-monitoring.md) <br>
 
+Zabbixを理解する上での基礎用語　　　　  :    [次のチャプターへ進む](./Zabbix-basic-terminology.md) <br>
 
