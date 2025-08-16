@@ -12,3 +12,7 @@ Web監視　　　　　　　　　　　　　　　　 ：　　[次のチャ
 
 Zabbixを理解する上での基礎用語　　　　  :    [次のチャプターへ進む](./Zabbix-basic-terminology.md) <br>
 
+
+本資料は個人的に自宅でZabbixを構築した際のメモとして記載しているものです<br>
+
+
