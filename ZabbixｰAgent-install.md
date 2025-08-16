@@ -20,7 +20,7 @@ VirtualBOX上に構成したZabbix-agentをZabbixサーバーから監視でき�
 
 ###【設定ファイルの修正及びエージェント有効化】<br>
   (1) Zabbix-agent2のconfig(/etc/zabbix/zabbix_agent2.conf)を修正します<br>
-　(2) Zabbix-agent2の再起動及び有効化を実施します<br>
+  (2) Zabbix-agent2の再起動及び有効化を実施します<br>
 
 ###【Zabbixサーバによる設定及び確認】
 　(1）WebUIにログイン後、データ収集→ホストを選択します<br>
