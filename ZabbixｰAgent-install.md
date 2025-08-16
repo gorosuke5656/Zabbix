@@ -8,7 +8,7 @@
 OS：Ubuntu22<br>
 Zabbix-agent Ver：Zabbix agent6.4<br>
 
-##今回の構成
+## 今回の構成
 ![Diagram](./images/zabbix-agent/1.jpg),br>
 VirtualBOX上に構成したZabbix-agentをZabbixサーバーから監視できる状態にします<br>
 
