@@ -32,16 +32,16 @@ VirtualBOX上に構成したZabbix-agentをZabbixサーバーから監視でき�
 ##　細部手順及び確認
 ###【ダウンロード&展開&インストール】<br>　　
 　(1) Zabbixサイトから該当のZabbixエージェントのdebファイルをダウンロード<br>
-wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb<br>
+#wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb<br>
 
 　　 ![Diagram](./images/zabbix-agent/2.jpg)<br>
 
 　(2) dpkgコマンドにより展開します<br>
-
+#dpkg -i zabbix-release_6.4-1+ubuntu22.04_all.deb<br>
 　　 ![Diagram](./images/zabbix-agent/3.jpg)<br>
 
 　(3) apt installコマンドによりインストールを実施します<br>　
-　
+#apt install zabbix-agent2 zabbix-agent2-plugin-*<br>　
 　　![Diagram](./images/zabbix-agent/4.jpg)<br>
 　　![Diagram](./images/zabbix-agent/5.jpg)<br>
 　　　
