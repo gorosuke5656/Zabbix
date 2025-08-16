@@ -1,4 +1,4 @@
-[目次に戻る](./Junos-BGP-exercises.md) <br>
+[目次に戻る](./README.md) <br>
 
 # Zabbix-agentのインストールと確認
 
