@@ -2,7 +2,7 @@
 
 # Zabbix-lab構成図
 
-##今回の構成
+## 今回の構成
 ![Diagram](./images/ZabbixｰTraining-structure-diagram.md.jpg)<br>
 
 
