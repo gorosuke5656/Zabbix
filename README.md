@@ -8,8 +8,10 @@ Zabbix-lab構成図　　　　　　　　　
 ：[次のチャプターへ進む](./ZabbixｰTraining-structure-diagram.md) <br>
 Zabbixサーバーのインストールと確認　　  
 ：[次のチャプターへ進む](./ZabbixｰServer-install.md) <br>
-Zabbixエージェントのインストールと確認  
+Zabbixエージェントのインストールと確認（Ubuntu22）  
 ：[次のチャプターへ進む](./ZabbixｰAgent-install.md) <br>
+Zabbixエージェントのインストールと確認（Aloma linux)
+：[次のチャプターへ進む](./ZabbixｰAgent-install(Alomalinux).md) <br>
 ネットワーク機器監視　　　　　　　　    
 ：[次のチャプターへ進む](./Zabbix-network-monitoring.md) <br>
 Web監視
