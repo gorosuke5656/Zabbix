@@ -2,7 +2,7 @@
 
 # Zabbix-agentのインストールと確認
 
-##(今回実施したOS条件)<br>
+## (今回実施したOS条件)<br>
 
 仮想マシン<br>
 OS：Ubuntu22<br>
