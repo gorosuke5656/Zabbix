@@ -21,4 +21,9 @@ Zabbixを理解する上での基礎用語
 
 本資料は個人的に自宅でZabbixを構築した際のメモとして記載しているものです<br>
 
+参考サイト
+　zerizeriのエンジニア技術ブログ<br>
+　zabbixのハンズオン形式での勉強（構築、監視設定、アラート確認）<br>
+　https://security-blog-it.com/20191/<br>
+
 
