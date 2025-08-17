@@ -10,7 +10,7 @@ Zabbixサーバーのインストールと確認　　
 ：[次のチャプターへ進む](./ZabbixｰServer-install.md) <br>
 Zabbixエージェントのインストールと確認（Ubuntu22）  
 ：[次のチャプターへ進む](./ZabbixｰAgent-install.md) <br>
-Zabbixエージェントのインストールと確認（Aloma linux)
+Zabbixエージェントのインストールと確認（Aloma linux)<br>
 ：[次のチャプターへ進む](./ZabbixｰAgent-install(Alomalinux).md) <br>
 ネットワーク機器監視　　　　　　　　    
 ：[次のチャプターへ進む](./Zabbix-network-monitoring.md) <br>
