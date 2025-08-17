@@ -26,4 +26,8 @@ Zabbixを理解する上での基礎用語
 　zabbixのハンズオン形式での勉強（構築、監視設定、アラート確認）<br>
 　https://security-blog-it.com/20191/<br>
 
+  Zabbixリポジトリー（Ver7 RHEL）/<br>
+  　https://repo.zabbix.com/zabbix/7.0/rhel/9/x86_64/<br>
+   　
+
 
