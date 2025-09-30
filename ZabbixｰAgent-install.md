@@ -13,24 +13,24 @@ Zabbix-agent Ver：Zabbix agent6.4<br>
 VirtualBOX上に構成したZabbix-agentをZabbixサーバーから監視できる状態にします<br>
 
 ## 実施要領
-###【ダウンロード&展開&インストール】<br>　　
+### 【ダウンロード&展開&インストール】<br>　　
 　(1) Zabbixサイトから該当のZabbixエージェントのdebファイルをダウンロード<br>
 　(2) dpkgコマンドにより展開します<br>
 　(3) apt installコマンドによりインストールを実施します<br>
 
-###【設定ファイルの修正及びエージェント有効化】<br>
+### 【設定ファイルの修正及びエージェント有効化】<br>
   (1) Zabbix-agent2のconfig(/etc/zabbix/zabbix_agent2.conf)を修正します<br>
   (2) Zabbix-agent2の再起動及び有効化を実施します<br>
 
-###【Zabbixサーバによる設定及び確認】
+### 【Zabbixサーバによる設定及び確認】
 　(1）WebUIにログイン後、データ収集→ホストを選択します<br>
 　(2) ホストの作成を選択/設定します<br>
 　(3) 作成したホストのAvailabilityが緑色になることを確認します<br>
 　(4) Zabbix-agent2をインストールした端末で状態を確認します<br>
 
 
-##　細部手順及び確認
-###【ダウンロード&展開&インストール】<br>　　
+## 細部手順及び確認
+### 【ダウンロード&展開&インストール】<br>　　
 　(1) Zabbixサイトから該当のZabbixエージェントのdebファイルをダウンロード<br>
 #wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb<br>
 
@@ -45,7 +45,7 @@ VirtualBOX上に構成したZabbix-agentをZabbixサーバーから監視でき�
 　　![Diagram](./images/zabbix-agent/4.jpg)<br>
 　　![Diagram](./images/zabbix-agent/5.jpg)<br>
 　　　
-###【設定ファイルの修正及びエージェント有効化】<br>
+### 【設定ファイルの修正及びエージェント有効化】<br>
 (1) Zabbix-agent2のconfig(/etc/zabbix/zabbix_agent2.conf)を修正します<br>
 
 　　![Diagram](./images/zabbix-agent/6.jpg)<br>
@@ -57,7 +57,7 @@ VirtualBOX上に構成したZabbix-agentをZabbixサーバーから監視でき�
     
     ![Diagram](./images/zabbix-agent/8.jpg)<br>
 　　　
-###【Zabbixサーバによる設定及び確認】
+### 【Zabbixサーバによる設定及び確認】
 (1）WebUIにログイン後、データ収集→ホストを選択します<br>
 　　![Diagram](./images/zabbix-agent/9.jpg)<br>
 　　　
