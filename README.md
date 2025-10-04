@@ -1,7 +1,7 @@
 # Zabbix-lab
 
 自宅ラボ環境<br>
-Zabbixサーバ（Ver7.0）【VirtualBOX上】
+Zabbixサーバ（Ver7.0）　使用OS：Alma-linux【VirtualBOX上】<br>
 
 ## 内容<br>
 Zabbix-lab構成図　　　　　　　　　     
@@ -23,7 +23,7 @@ Zabbixを理解する上での基礎用語
 
 本資料は個人的に自宅でZabbixを構築した際のメモとして記載しているものです<br>
 
-参考サイト
+参考サイト<br>
 　Zabbix公式マニュアル（Ver7.0）<br>
 　https://www.zabbix.com/documentation/7.0/jp/manual<br>
 　
