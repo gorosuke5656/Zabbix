@@ -25,7 +25,7 @@ Zabbixを理解する上での基礎用語
 
 参考サイト
 　Zabbix公式マニュアル（Ver7.0）<br>
-　https://www.zabbix.com/documentation/7.0/jp/manual
+　https://www.zabbix.com/documentation/7.0/jp/manual<br>
 　
 　zerizeriのエンジニア技術ブログ<br>
 　zabbixのハンズオン形式での勉強（構築、監視設定、アラート確認）<br>
